@@ -26,6 +26,7 @@
 
 ## 5.CONCLUSIONES
 •	Para la resolucion de los ejercicios aplicando los temas de los que hablan las corrientes aalternas pro ejemplo el periodo tenemos que tener en cuenta que se debe analizar bien el diagrama y dependiendo la frecuencia con la que esta se maneje estableceremos muchas caracteristicas de este sistema sinusoidal y tambien se puede interpretar diagramas no sinusoidales.
+
 •	Para poder sacar calculos con capacitores se debe tomar encuenta que funcionan de forma contraria con los resistores pero se puede aplicar los mismos metodos que se aplicaron en los resistores. 
 ## 6.BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
