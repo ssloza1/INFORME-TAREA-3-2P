@@ -122,6 +122,7 @@ SECCIÓN 11-6 Introducción a los fasores
  ![image](https://user-images.githubusercontent.com/105320981/179000959-da9cd64b-fbaa-49e9-942c-40d867912988.png)
 
 SECCIÓN 11-7 Análisis de circuitos de ca
+
 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
 (a) Irms
 (b) Iprom
@@ -140,6 +141,7 @@ SECCIÓN 11-7 Análisis de circuitos de ca
 ![image](https://user-images.githubusercontent.com/105320981/179001161-bdd5312a-352c-490b-997d-651288f6b422.png)
 
 SECCIÓN 11-8 Voltajes superpuestos de cd y de ca
+
 30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
 
 Los valores que se le deben dar son valores menores que -3
@@ -150,6 +152,7 @@ Los valores que se le deben dar son valores menores que -3
 ![image](https://user-images.githubusercontent.com/105320981/179001314-82f550d1-d104-4a84-b0fc-b9f760861a31.png)
 
 SECCIÓN 11-9 Formas de onda no sinusoidales
+
 34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?
 
 ![image](https://user-images.githubusercontent.com/105320981/179001354-edd4fe2e-8e5f-4515-b8bf-561d366ec798.png)
@@ -174,6 +177,7 @@ SECCIÓN 11-9 Formas de onda no sinusoidales
 ![image](https://user-images.githubusercontent.com/105320981/179001601-dbf8632b-0825-4931-be39-ffcae1352b0d.png)
 
 SECCIÓN 11-10 El osciloscopio
+
 44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
  
  ![image](https://user-images.githubusercontent.com/105320981/179001640-6676eeb4-b736-4710-acd0-5de6eb68a0bf.png)
@@ -216,6 +220,7 @@ SECCIÓN 12-1 El capacitor básico
 ![image](https://user-images.githubusercontent.com/105320981/179002014-dc3e6d95-15e6-428a-9e88-8b4e7264a5b5.png)
 
 SECCIÓN 12-2 Tipos de capacitores
+
 14. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
 
 El área de la placa aumenta aumentando el número de capas de placa y materiales dieléctricos.
@@ -321,16 +326,20 @@ SECCIÓN 12-6 Capacitores en circuitos de ca
 ![image](https://user-images.githubusercontent.com/105320981/179006752-da559a95-98c1-4259-be85-a5c3befa78af.png)
 
 SECCIÓN 12-7 Aplicaciones de los capacitores
+
 52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
 
 Su reactancia debería de ser de 20 kHz, así se eliminaría el voltaje de ca y se colocaría un voltaje de cd.
 
 SECCIÓN 12-8 Circuitos de capacitor conmutado
+
 54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
  
 ![image](https://user-images.githubusercontent.com/105320981/179006813-11052809-f2cc-48cd-971e-0e704800a114.png)
 
 ## 4. VIDEO
+
+https://youtu.be/GZChZjCKmwY
 
 ## 5.CONCLUSIONES
 •	Para la resolucion de los ejercicios aplicando los temas de los que hablan las corrientes aalternas pro ejemplo el periodo tenemos que tener en cuenta que se debe analizar bien el diagrama y dependiendo la frecuencia con la que esta se maneje estableceremos muchas caracteristicas de este sistema sinusoidal y tambien se puede interpretar diagramas no sinusoidales.
